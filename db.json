@@ -57,6 +57,54 @@
     "email": "celeritas@gmail.com", 
     "phoneNumber": "0465856000", 
     "role": "Support"
+  },
+  {
+    "id": 5,
+    "firstName": "Kenny", 
+    "lastName": "Guo", 
+    "email": "kennyguo@gmail.com", 
+    "phoneNumber": "0465856545", 
+    "role": "Support"
+  },
+  {
+    "id": 6, 
+    "firstName": "RubberMan", 
+    "lastName": "Hung", 
+    "email": "celeritas@gmail.com", 
+    "phoneNumber": "0465856000", 
+    "role": "Support"
+  },
+  {
+    "id": 7, 
+    "firstName": "Dynama", 
+    "lastName": '"Hung", 
+    "email": "celeritas@gmail.com", 
+    "phoneNumber": "0465856000", 
+    "role": "Administrator"
+  },
+  {
+    "id": 8, 
+    "firstName": "IQ", 
+    "lastName": "Dodd", 
+    "email": "iqdodd@gmail.com", 
+    "phoneNumber": "0465856777", 
+    "role": "Support"
+  },
+  {
+    "id": 9, 
+    "firstName": "Magma", 
+    "lastName": "Xu", 
+    "email": "magmaxu@gmail.com", 
+    "phoneNumber": "0465756888", 
+    "role": "Support" 
+  },
+  {
+    "id": 10, 
+    "firstName": "Tornado", 
+    "lastName": "Todd", 
+    "email": "tornadotodd@gmail.com", 
+    "phoneNumber": "0443656999", 
+    "role": "Support"
   }
   ]
 }
