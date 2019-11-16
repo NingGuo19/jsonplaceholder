@@ -28,4 +28,38 @@
   "profile": {
     "name": "typicode"
   }
+  "users": [
+  {
+    "id": 1, 
+    "firstName": "Nice", 
+    "lastName": "Smiths", 
+    "email": "nicesmiths@gmail.com", 
+    "phoneNumber": "0465856723", 
+    "role": "Support"
+  },
+  {
+    "id": 2, 
+    "firstName": "Marco", 
+    "lastName": "Lee", 
+    "email": "macrolee@ibm.com", 
+    "phoneNumber": "04640056723", 
+    "role": "Administrator"
+  },
+  {
+    "id": 3, 
+    "firstName": "Bombsto", 
+    "lastName": "Markman", 
+    "email": "bombsto@gmail.com", 
+    "phoneNumber": "0469236723", 
+    "role": "Support"
+  },
+  {
+    "id": 4, 
+    "firstName": "Celeritas", 
+    "lastName": "Hung", 
+    "email": "celeritas@gmail.com", 
+    "phoneNumber": "0465856000", 
+    "role": "Support"
+  }
+  ]
 }
